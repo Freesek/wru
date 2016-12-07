@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/alexey/AndroidStudioProjects/WRU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]
