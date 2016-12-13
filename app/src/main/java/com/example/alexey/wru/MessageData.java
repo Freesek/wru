@@ -17,6 +17,7 @@ public class MessageData {
 
     public JSONObject getJson() {
         JSONObject toServerMessage = null;
+        //Сюда добавить String -> JSON
         return toServerMessage;
     }
 }
