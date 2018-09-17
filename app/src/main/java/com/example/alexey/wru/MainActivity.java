@@ -9,6 +9,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     TextView serverMessage;
     Button toTheServerButton;
+    Button huyooton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -16,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         serverMessage = (TextView) findViewById(R.id.serverMessage);
         toTheServerButton = (Button) findViewById(R.id.toTheServerButton);
+        huyooton = (Button) findViewById(R.id.button1);
     }
 
     public void onClick(View view) {
